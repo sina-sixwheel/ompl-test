@@ -55,8 +55,6 @@
 Thumbs.db
 
 # Ignore Bazel workspace files
-.bazelrc
-.bazelversion
 
 # Ignore any local Bazel configuration
 user.bazelrc
